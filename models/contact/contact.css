@@ -1,0 +1,17 @@
+html,body {
+	height: 100%;
+	overflow: hidden;
+}
+
+.mui-indexed-list-bar, .mui-indexed-list-bar.active {
+	background-color : transparent;
+}
+.mui-bar {
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.mui-media-body{
+	line-height: 2.5;
+}
+

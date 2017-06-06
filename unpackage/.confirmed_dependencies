@@ -1,0 +1,85 @@
+{
+	"models/login/login.html": {
+		"resources": [
+			"models/login/login.css",
+			"models/login/login.js",
+			"common/mui.js",
+			"common/mui.css",
+			"common/fonts/mui.ttf"
+		],
+		"refer": []
+	},
+	"models/main/main.html": {
+		"resources": [
+			"common/fonts/mui.ttf",
+			"common/mui.js",
+			"common/mui.css",
+			"models/main/main.js",
+			"models/message/message.html"
+		],
+		"refer": [
+			"models/mine/mine.html",
+			"models/message/message.html",
+			"models/discovery/discovery.html",
+			"models/contact/contact.html"
+		]
+	},
+	"models/mine/mine.html": {
+		"resources": [
+			"models/mine/mine.css",
+			"common/mui.js",
+			"common/mui.css",
+			"common/fonts/mui.ttf",
+			"img/avatar.png",
+			"models/mine/photo.png",
+			"models/mine/collection.png",
+			"models/mine/setting.png",
+			"models/mine/card.png",
+			"models/mine/face.png",
+			"models/mine/wallet.png",
+			"models/mine/code.png",
+			"common/app.top.css"
+		]
+	},
+	"models/message/message.html": {
+		"resources": [
+			"models/message/message.js",
+			"models/message/message.css",
+			"common/mui.js",
+			"common/mui.css",
+			"common/fonts/mui.ttf",
+			"img/avatar.png",
+			"common/app.top.css"
+		]
+	},
+	"models/discovery/discovery.html": {
+		"resources": [
+			"models/discovery/discovery.css",
+			"common/fonts/mui.ttf",
+			"common/mui.js",
+			"common/mui.css",
+			"models/discovery/friend.png",
+			"models/discovery/near.png",
+			"models/discovery/shopping.png",
+			"models/discovery/shake.png",
+			"models/discovery/game.png",
+			"models/discovery/discovery.js",
+			"models/discovery/scan.png",
+			"img/avatar.png",
+			"common/app.top.css"
+		]
+	},
+	"models/contact/contact.html": {
+		"resources": [
+			"models/contact/contact.css",
+			"common/fonts/mui.ttf",
+			"common/mui.js",
+			"common/mui.css",
+			"common/mui.indexedlist.css",
+			"common/mui.indexedlist.js",
+			"models/contact/contact.js",
+			"img/avatar.png",
+			"common/app.top.css"
+		]
+	}
+}

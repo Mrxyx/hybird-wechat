@@ -1,0 +1,9 @@
+
+.mui-bar-nav {
+	background-color: #000000;
+}
+
+.mui-bar-nav .mui-title, .mui-bar-nav a{
+	color: #FFFFFF;
+	font-weight: 600;
+}

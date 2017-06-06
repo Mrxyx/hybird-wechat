@@ -1,0 +1,24 @@
+body {
+	background-color: #FFFFFF;
+}
+
+.mui-input-group:before, .mui-input-group:after {
+	height: 0px;
+}
+
+.mui-content-padded{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.mui-btn{
+	padding: 10px;
+}
+
+.question {
+	color: #3d4af1;
+}
+
+.mui-input-row label{
+	font-weight: 600;
+}
